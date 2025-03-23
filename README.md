@@ -26,4 +26,9 @@ The program leverages Python’s built-in libraries to generate random passwords
 ### Installation 📥
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   https://github.com/SUVRADEEP2025/password-generator.git
+
+   cd password-generator
+   python password_generator.py
+   
+   
